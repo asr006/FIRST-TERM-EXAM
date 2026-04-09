@@ -53,6 +53,9 @@ El programa intentará varias combinaciones hasta encontrar la contraseña corre
 
 ## Resultados
 
+<img width="845" height="251" alt="image" src="https://github.com/user-attachments/assets/4fd8f8e8-d297-4118-9171-cdf72d2030bb" />
+
+
 <img width="696" height="102" alt="image" src="https://github.com/user-attachments/assets/73d9e92d-1831-45bb-b9a0-dc8825335706" />
 
 
