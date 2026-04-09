@@ -23,7 +23,7 @@ with requests.Session() as session:
                 "password": password
             })
 
-            if response.json()["message"] == "Login exitoso":
+            if response.status_code == 200:
                 print(f"Contraseña encontrada: {password}")
                 print(f"Intentos: {intentos}")
                 print(f"Tiempo: {time.time() - inicio:.2f} segundos")
