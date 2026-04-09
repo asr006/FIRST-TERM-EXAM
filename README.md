@@ -53,6 +53,9 @@ El programa intentará varias combinaciones hasta encontrar la contraseña corre
 
 ## Resultados
 
+<img width="696" height="102" alt="image" src="https://github.com/user-attachments/assets/73d9e92d-1831-45bb-b9a0-dc8825335706" />
+
+
 Se pudo observar que el sistema permite múltiples intentos de login sin restricciones, lo que facilita que un ataque de fuerza bruta logre encontrar la contraseña.
 
 Se registraron:
